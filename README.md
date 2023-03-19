@@ -2,7 +2,7 @@
 ## Software-Engineer
 Systematic engineer for software development management and software configuration 
 
-| Rank | Jobs the profession|
+| Rnk | Jobs the profession|
 |-----:|--------------------|
 |     1| Softwares enginee  |
 |     2| Developer Web      |
